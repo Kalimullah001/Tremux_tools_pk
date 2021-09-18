@@ -1,4 +1,5 @@
-apt install python
+
+# apt install python
 # apt install python2
 # apt install git
 # pip2 install requests
@@ -10,4 +11,4 @@ apt install python
 # git clone https://github.com/kalimullah001/Tremux_tools_pk
 # cd Tremux_tools_pk
 # ls
-# sh Kalimullah.sh
+# sh kalimullah.sh
