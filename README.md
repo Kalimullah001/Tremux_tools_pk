@@ -7,6 +7,6 @@
 # pip2 install mechanize
 
 
-# git clone https://github.com/Aryanjan002/Tremux_tools_pk
+# git clone https://github.com/kalimullah001/Tremux_tools_pk
 # cd Tremux_tools_pk
 # ls
