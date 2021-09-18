@@ -12,4 +12,4 @@
 # git clone https://github.com/Kalimullah001/Tremux_tools_pk
 # cd Tremux_tools_pk
 # ls
-# sh kalim.sh
+# sh kalimullah.sh
